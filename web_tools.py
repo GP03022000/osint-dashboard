@@ -1,3 +1,4 @@
+from http.client import error
 import http.cookiejar
 import urllib.request
 from urllib.parse import urlparse, urljoin
